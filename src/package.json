@@ -1,0 +1,16 @@
+{
+  "name": "express-http-utube",
+  "version": "4.17.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon users/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
